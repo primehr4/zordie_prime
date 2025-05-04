@@ -1,0 +1,9 @@
+fastapi==0.92.0
+numpy==1.26.4
+gunicorn==22.0.0
+chromadb==0.5.23
+langchain==0.0.176
+huggingface-hub==0.13.4
+pydantic==1.10.7
+grpcio==1.54.2
+grpcio-tools==1.54.2
